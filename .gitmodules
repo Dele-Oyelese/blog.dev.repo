@@ -1,0 +1,7 @@
+[submodule "Documents/GitHub/blog_repo/themes/hugo-theme-cleanwhite"]
+	path = Documents/GitHub/blog_repo/themes/hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "Documents/GitHub/blog_repo/public"]
+	path = Documents/GitHub/blog_repo/public
+	url = /Users/deleoyelese/Documents/GitHub/Dele-Oyelese.github.io.git
+	branch = master
