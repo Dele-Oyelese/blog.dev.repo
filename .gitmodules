@@ -5,3 +5,6 @@
 	path = Documents/GitHub/blog_repo/public
 	url = /Users/deleoyelese/Documents/GitHub/Dele-Oyelese.github.io.git
 	branch = master
+[submodule "themes/hugo-theme-cleanwhite"]
+	path = themes/hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
